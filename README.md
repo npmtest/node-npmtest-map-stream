@@ -1,4 +1,7 @@
-# test coverage for  [map-stream (v0.0.7)](http://github.com/dominictarr/map-stream)  [![npm package](https://img.shields.io/npm/v/npmtest-map-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-map-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-map-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-map-stream)
+# npmtest-map-stream
+
+#### test coverage for  [map-stream (v0.0.7)](http://github.com/dominictarr/map-stream)  [![npm package](https://img.shields.io/npm/v/npmtest-map-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-map-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-map-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-map-stream)
+
 #### construct pipes of streams of events
 
 [![NPM](https://nodei.co/npm/map-stream.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/map-stream)
