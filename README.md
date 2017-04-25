@@ -1,6 +1,6 @@
 # npmtest-map-stream
 
-#### test coverage for  [map-stream (v0.0.7)](http://github.com/dominictarr/map-stream)  [![npm package](https://img.shields.io/npm/v/npmtest-map-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-map-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-map-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-map-stream)
+#### basic test coverage for  [map-stream (v0.0.7)](http://github.com/dominictarr/map-stream)  [![npm package](https://img.shields.io/npm/v/npmtest-map-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-map-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-map-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-map-stream)
 
 #### construct pipes of streams of events
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-map-stream/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-map-stream/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-map-stream/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-map-stream/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-map-stream/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-map-stream/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-map-stream/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-map-stream/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-map-stream/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-map-stream/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-map-stream/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-map-stream/build/coverage.html/index.html)
 
@@ -74,7 +74,8 @@
     "scripts": {
         "test": "asynct test/"
     },
-    "version": "0.0.7"
+    "version": "0.0.7",
+    "bin": {}
 }
 ```
 
